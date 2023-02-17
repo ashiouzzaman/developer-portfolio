@@ -131,3 +131,85 @@ main{
     font-size: 20px;
     font-weight: 700;
 }
+
+/* What I do */
+
+.what-i-do{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+
+.skills-container{
+    display: flex;
+    gap: 24px;
+    margin-top: 50px;
+}
+
+.skill{
+    padding: 30px;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+
+.skill-title{
+    color: #181818;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.skill-description{
+    color: #757575;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+/* A summary of My Resume */
+.my-resume-title{
+    font-size: 35px;
+    font-weight: 700;
+    color: #181818;
+    margin-bottom: 82px;
+}
+
+.my-resume-content{
+    display: flex;
+    gap: 24px;
+}
+.resume-title{
+    font-size: 30px;
+    font-weight: 700;
+    color: #474747;
+    margin-bottom: 30px;
+}
+
+.title{
+    font-size: 25px;
+    font-weight: 700;
+    color: #474747;
+    margin-bottom: 10px;
+}
+
+.sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+.description{
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
+    margin-bottom: 30px;
+}
+
+hr{
+    border-top: 1px solid #D1D1D1;
+    margin-bottom: 30px;
+}
+
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
